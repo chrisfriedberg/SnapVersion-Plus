@@ -1,0 +1,64 @@
+[2025-05-05 00:37:49] INFO: Application started
+[2025-05-05 00:37:49] INFO: Log file C:\Users\chris\Desktop\scripts\SnapVersion+Plus\SnapVersion+Plus_log.json does not exist, starting fresh
+[2025-05-05 00:37:49] INFO: Created help file at C:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-05 00:37:52] ERROR: No valid directory set for batch file selection
+[2025-05-05 00:38:01] INFO: Log file C:\Users\chris\Desktop\scripts\SnapVersion+Plus\SnapVersion+Plus_log.json does not exist, starting fresh
+[2025-05-05 00:38:01] INFO: Saved directory to log file: C:/Users/chris/Desktop/scripts/SnapVersion+Plus
+[2025-05-05 00:38:01] INFO: Directory set to C:/Users/chris/Desktop/scripts/SnapVersion+Plus
+[2025-05-05 00:38:12] INFO: Saved directory to log file: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/NewWorkingScript_MasterDocuments
+[2025-05-05 00:38:12] INFO: Directory set to C:/Users/chris/Desktop/scripts/SnapVersion+Plus/NewWorkingScript_MasterDocuments
+[2025-05-05 00:38:57] INFO: Saved directory to log file: C:/Users/chris/OneDrive/Documents/Notepad++Files-&-Backups
+[2025-05-05 00:38:57] INFO: Directory set to C:/Users/chris/OneDrive/Documents/Notepad++Files-&-Backups
+[2025-05-05 00:39:02] INFO: Saved batch_file to log file: C:/Users/chris/OneDrive/Documents/Notepad++Files-&-Backups/shortcut_custo.py.2025-05-03_191555.bak
+[2025-05-05 00:54:54] INFO: Application started
+[2025-05-05 00:54:55] INFO: Created help file at C:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-05 00:55:02] INFO: Saved batch_file to log file: C:/Users/chris/OneDrive/Documents/Notepad++Files-&-Backups/DocumentVersionExplorer.py.2025-05-05_005024.bak
+[2025-05-05 00:58:49] INFO: Application started
+[2025-05-05 00:58:49] INFO: Created help file at C:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-05 00:58:55] INFO: Saved batch_file to log file: C:/Users/chris/OneDrive/Documents/Notepad++Files-&-Backups/DocumentVersionExplorer.py.2025-05-04_171959.bak
+[2025-05-05 01:43:56] INFO: Application started
+[2025-05-05 01:43:56] INFO: Created help file at C:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-05 01:44:02] INFO: Saved batch_file to log file: C:/Users/chris/OneDrive/Documents/Notepad++Files-&-Backups/DocumentVersionExplorer.py.2025-05-05_013518.bak
+[2025-05-16 00:52:34] INFO: Application started
+[2025-05-16 00:52:34] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 00:52:38] INFO: Opened Document Version Explorer
+[2025-05-16 00:55:21] INFO: Application started
+[2025-05-16 00:55:21] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 00:56:29] INFO: Application started
+[2025-05-16 00:56:29] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 00:56:31] INFO: Opened Document Version Explorer
+[2025-05-16 00:58:00] INFO: Application started
+[2025-05-16 00:58:00] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 00:58:02] INFO: Opened Document Version Explorer
+[2025-05-16 00:58:53] INFO: Application started
+[2025-05-16 00:58:53] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 00:58:56] INFO: Opened Document Version Explorer
+[2025-05-16 00:59:33] INFO: No version selected to open
+[2025-05-16 01:01:58] INFO: Application started
+[2025-05-16 01:01:58] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 01:02:06] INFO: Saved icon_path to log file: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/SnapVersion+Plus.ico
+[2025-05-16 01:02:06] INFO: Changed application icon to: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/SnapVersion+Plus.ico
+[2025-05-16 01:02:12] INFO: Opened Document Version Explorer
+[2025-05-16 01:03:01] INFO: Application started
+[2025-05-16 01:03:01] INFO: Loaded saved icon from: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/SnapVersion+Plus.ico
+[2025-05-16 01:03:01] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 01:03:05] INFO: Opened Document Version Explorer
+[2025-05-16 01:04:40] INFO: Application started
+[2025-05-16 01:04:40] INFO: Loaded saved icon from: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/SnapVersion+Plus.ico
+[2025-05-16 01:04:40] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 01:04:43] INFO: Opened Document Version Explorer
+[2025-05-16 01:06:22] INFO: Application started
+[2025-05-16 01:06:22] INFO: Loaded saved icon from: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/SnapVersion+Plus.ico
+[2025-05-16 01:06:22] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 01:07:06] INFO: Application started
+[2025-05-16 01:07:06] INFO: Loaded saved icon from: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/SnapVersion+Plus.ico
+[2025-05-16 01:07:06] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 01:07:14] INFO: Opened Document Version Explorer
+[2025-05-16 01:08:14] INFO: Application started
+[2025-05-16 01:08:14] INFO: Loaded saved icon from: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/SnapVersion+Plus.ico
+[2025-05-16 01:08:14] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt
+[2025-05-16 01:08:16] INFO: Opened Document Version Explorer
+[2025-05-16 01:08:22] INFO: Opened Document Version Explorer
+[2025-05-16 01:09:51] INFO: Application started
+[2025-05-16 01:09:51] INFO: Loaded saved icon from: C:/Users/chris/Desktop/scripts/SnapVersion+Plus/SnapVersion+Plus.ico
+[2025-05-16 01:09:51] INFO: Created help file at c:\Users\chris\Desktop\scripts\SnapVersion+Plus\help.txt

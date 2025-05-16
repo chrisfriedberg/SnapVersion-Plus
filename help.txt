@@ -1,0 +1,51 @@
+SnapVersion+Plus Help File
+=================================
+
+Purpose:
+--------
+SnapVersion+Plus is a utility to help you manage and restore Notepad++ backup files (.bak) in a user-friendly way. It allows you to select a directory containing backup files, view all backups for a specific file, preview their contents, and restore them in Notepad++.
+
+How It Works:
+-------------
+1. **Set Directory**: Choose a directory containing your Notepad++ backup files (.bak).
+2. **Select Batch**: Pick a file (any file or .bak) to list all related backup files in the selected directory.
+3. **View Backups**: The app lists all .bak files with the same base name, sorted by creation date (newest first), showing:
+   - Date/Time (e.g., "sat 05/03/2025 11:53am", reflecting the creation date of the backup)
+   - Group Alias (base name of the file)
+   - Version (V1 for the oldest, incrementing to the newest at the top, e.g., V9 for the newest if there are 9 versions)
+   - Changes (number of lines changed compared to the previous older version)
+   - Total Lines (total number of lines in the file)
+   - Meta Tag (user-editable metadata stored in NTFS ADS :source stream)
+4. **Preview**: Use the Preview button to view a file's contents in a popup without opening it in Notepad++.
+5. **Edit Meta Tag**: Double-click the Meta Tag column to edit metadata for a backup file.
+6. **View Metadata History**: Right-click the Meta Tag column and select "View Metadata History" to see all previous metadata changes for that file.
+7. **Refresh Meta Tags**: Click the Refresh Meta Tags button to reload metadata for all displayed files.
+8. **Refresh Files**: Click the Refresh Files button to reload the list of backup files, detecting new backups.
+9. **Restore**: Double-click any other column or click "Select File" to open a backup in Notepad++. A confirmation popup will appear, and the app will remain open.
+10. **Transparency**: Adjust the preview popup's transparency via Settings > Transparency (0% to 100%).
+11. **Clear Log**: Clear the application log file via Settings > Clear Log.
+
+File Locations and Purposes:
+----------------------------
+- **Log File (<app_name>_log.json)**:
+  Location: Same directory as the app executable (e.g., C:\path\to\exe\<app_name>_log.json)
+  Purpose: Stores persistent settings, such as the last selected directory.
+- **Batch Log File (<batch_base_name>_loghistory.txt)**:
+  Location: Same directory as the app executable (e.g., C:\path\to\exe\<batch_base_name>_loghistory.txt)
+  Purpose: Logs all actions (e.g., file selections, restorations) specific to the selected batch.
+- **Metadata Audit Stream (<file_path>:meta_audit)**:
+  Location: NTFS ADS stream attached to each backup file
+  Purpose: Stores the history of metadata changes for that specific file. Preserved across renames by copying entries from all versions to every file with 100% integrity.
+- **Help File (help.txt)**:
+  Location: Same directory as the app executable (e.g., C:\path\to\exe\help.txt)
+  Purpose: This file, providing documentation on the app's functionality.
+- **Notepad++ Executable**:
+  Location: C:\Program Files\Notepad++\notepad++.exe
+  Purpose: Used to open selected backup files for restoration.
+
+Notes:
+------
+- The app creates these files in the same directory as the executable if they don't exist.
+- All errors are logged to the batch-specific log file for troubleshooting.
+- The Meta Tag and metadata history features require an NTFS filesystem to store data in the :source and :meta_audit streams.
+- Metadata history preservation includes robust fallback logic to ensure no entries are lost during renames, restores, or versioning.
